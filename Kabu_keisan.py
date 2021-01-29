@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 13 00:49:40 2019
 
-@author: 川南慶喜
+@author: Kawayotti
 """
 
 import pandas as pd
